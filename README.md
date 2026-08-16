@@ -14,7 +14,7 @@ Research Interests:
 LOD-Based Dynamic Scaling + Switching-Aware Zero-Skipping  
 Verilog RTL | PYNQ-Z2 | 2026 ISE Summer Conference
 
-[Project Repository](링크)
+[Project Repository](https://github.com/kooseo1296-debug/Systolic-Array-Spring-2026)
 
 ### LeNet MNIST NPU on Zynq SoC
 Vitis | AXI4-Lite | DMA | RTL | PS-PL Integration
@@ -23,4 +23,4 @@ Vitis | AXI4-Lite | DMA | RTL | PS-PL Integration
 
 ## CV
 
-📄 [Curriculum Vitae](cv/Bonseo_Koo_CV.pdf)
+📄 [Curriculum Vitae](https://github.com/kooseo1296-debug/Bonseo-Koo/blob/main/Bonseo_Koo_CV_Aug17_2026.pdf)

@@ -10,13 +10,13 @@ Research Interests:
 
 ## Research
 
-### Energy-Efficient Low-Precision NPU
+### Project #1: Energy-Efficient Low-Precision NPU
 LOD-Based Dynamic Scaling + Switching-Aware Zero-Skipping  
 Verilog RTL | PYNQ-Z2 | 2026 ISE Summer Conference
 
 [Project Repository](https://github.com/kooseo1296-debug/Systolic-Array-Spring-2026)
 
-### LeNet MNIST NPU on Zynq SoC
+### Project #2 (Ongoing)
 Vitis | AXI4-Lite | DMA | RTL | PS-PL Integration
 
 [Project Repository](링크)

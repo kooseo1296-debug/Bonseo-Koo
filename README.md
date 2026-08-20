@@ -19,7 +19,7 @@ Verilog RTL | PYNQ-Z2 | 2026 ISE Summer Conference
 ### Project #2 (Ongoing)
 Vitis | AXI4-Lite | DMA | RTL | PS-PL Integration
 
-[Project Repository](링크)
+[Project Repository](https://github.com/kooseo1296-debug/Project-2)
 
 ## CV
 

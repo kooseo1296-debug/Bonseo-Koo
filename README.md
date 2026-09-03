@@ -23,4 +23,4 @@ Vitis | AXI4-Lite | DMA | RTL | PS-PL Integration
 
 ## CV
 
-📄 [Curriculum Vitae](https://github.com/kooseo1296-debug/Bonseo-Koo/blob/main/Bonseo_Koo_CV_Aug17_2026.pdf)
+📄 [Curriculum Vitae](https://github.com/kooseo1296-debug/Bonseo-Koo/blob/main/Bonseo_Koo_CV_Sept_3rd.pdf)

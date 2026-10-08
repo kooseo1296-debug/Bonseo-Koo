@@ -13,6 +13,22 @@ My research explores two complementary aspects of NPU design: **energy-efficient
 
 ## Featured Research Projects
 
+### Project 1 — Energy-Efficient Low-Precision NPU
+**December 2025 – July 2026**
+
+**Verilog RTL | PYNQ-Z2 | Dynamic Scaling | Zero-Skipping**
+
+Designed and evaluated a low-precision FPGA NPU combining Leading-One Detection (LOD)-based Dynamic Scaling and Switching-Aware Zero-Skipping.
+
+**Key Results**
+- Explored **45 NPU configurations** across precision and zero-skipping parameters
+- Achieved **92.0% inference fidelity**, compared with 74.0% for the fixed 7-bit baseline
+- Reduced LUT utilization by 23.7%, BRAM utilization by 11.1%, and dynamic power by 12.9% relative to the fixed 7-bit baseline
+- Implemented an 8×8 weight-stationary systolic-array architecture on PYNQ-Z2 at 100 MHz
+- Presented the research at the 2026 ISE Summer Conference
+
+[**Project Repository**](https://github.com/kooseo1296-debug/Project-1.Energy-Efficient-Low-Precision-NPU) · [**Live Demo Video**](https://drive.google.com/file/d/1lzkIqhfIcX4UrQ2W33rvNfDzw1MxMoIF/view)
+
 ### Project 2 — End-to-End FPGA CNN Accelerator
 **Completed: September 2026**
 
@@ -31,22 +47,6 @@ Re-architected a CIFAR-10 CNN accelerator to reduce PS–PL communication overhe
 The controlled Vitis benchmark measures end-to-end inference latency, while the Jupyter-based camera demonstration achieved approximately 5 FPS at the application/display level.
 
 [**Project Repository**](https://github.com/kooseo1296-debug/Project-2) · [**Live Demo Video**](https://drive.google.com/file/d/1bns6vxbrneyFb1yLkzVsFXlarAnewryC/view)
-
-### Project 1 — Energy-Efficient Low-Precision NPU
-**December 2025 – July 2026**
-
-**Verilog RTL | PYNQ-Z2 | Dynamic Scaling | Zero-Skipping**
-
-Designed and evaluated a low-precision FPGA NPU combining Leading-One Detection (LOD)-based Dynamic Scaling and Switching-Aware Zero-Skipping.
-
-**Key Results**
-- Explored **45 NPU configurations** across precision and zero-skipping parameters
-- Achieved **92.0% inference fidelity**, compared with 74.0% for the fixed 7-bit baseline
-- Reduced LUT utilization by 23.7%, BRAM utilization by 11.1%, and dynamic power by 12.9% relative to the fixed 7-bit baseline
-- Implemented an 8×8 weight-stationary systolic-array architecture on PYNQ-Z2 at 100 MHz
-- Presented the research at the 2026 ISE Summer Conference
-
-[**Project Repository**](https://github.com/kooseo1296-debug/Project-1.Energy-Efficient-Low-Precision-NPU) · [**Live Demo Video**](https://drive.google.com/file/d/1lzkIqhfIcX4UrQ2W33rvNfDzw1MxMoIF/view)
 
 ---
 

@@ -75,5 +75,5 @@ The controlled Vitis benchmark measures end-to-end inference latency, while the 
 
 [**Download CV (PDF)**](https://github.com/kooseo1296-debug/Bonseo-Koo/blob/main/BONSEO_KOO_CV.pdf)
 
-**Email:** kooseo1296@sogang.ac.kr  
+**Email:** kooseo1296@gmail.com  
 **GitHub:** [kooseo1296-debug](https://github.com/kooseo1296-debug)

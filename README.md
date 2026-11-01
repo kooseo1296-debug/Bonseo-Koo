@@ -58,7 +58,7 @@ The controlled Vitis benchmark measures end-to-end inference latency, while the 
 
 **Live Demonstration Excellence Award** — 2026 ISE Summer Conference
 
-[**Conference Paper**](https://drive.google.com/file/d/1E2n2r2hTkK8z5EnhQzTTAbOcefPSNtiD/view)
+[**Conference Paper**](https://drive.google.com/file/d/1E2n2r2hTkK8z5EnhQzTTAbOcefPSNtiD/view) · [**Award**](https://drive.google.com/file/d/1sGMFFYth3vtEvNbnp05P9ena1RypABXS/view?usp=sharing)
 
 ---
 
